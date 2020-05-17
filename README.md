@@ -4,7 +4,7 @@
  - java -jar ./artifacts/app-card-delivery.jar -PassThru
 
 Запуск тестов: 
- - ./gradlew test
+ - ./gradlew clean test
  
 Просмотр отчетов:
  - ./gradlew allureReport
